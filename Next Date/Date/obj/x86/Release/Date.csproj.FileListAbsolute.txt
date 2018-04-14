@@ -1,0 +1,17 @@
+C:\Users\Student\AppData\Local\Temporary Projects\Date\bin\Release\Date.exe
+C:\Users\Student\AppData\Local\Temporary Projects\Date\bin\Release\Date.pdb
+C:\Users\Student\AppData\Local\Temporary Projects\Date\obj\x86\Release\Date.exe
+C:\Users\Student\AppData\Local\Temporary Projects\Date\obj\x86\Release\Date.pdb
+G:\Programing\C#\Date\Date\obj\x86\Release\Date.exe
+G:\Programing\C#\Date\Date\obj\x86\Release\Date.pdb
+K:\Programing\C#\Date\Date\bin\Release\Date.exe
+K:\Programing\C#\Date\Date\bin\Release\Date.pdb
+K:\Programing\C#\Date\Date\obj\x86\Release\Date.csprojResolveAssemblyReference.cache
+K:\Programing\C#\Date\Date\obj\x86\Release\Date.csproj.CoreCompileInputs.cache
+K:\Programing\C#\Date\Date\obj\x86\Release\Date.exe
+K:\Programing\C#\Date\Date\obj\x86\Release\Date.pdb
+G:\Programing\C#\Date\Date\bin\Release\Date.exe
+G:\Programing\C#\Date\Date\bin\Release\Date.pdb
+G:\Programing\C#\Date\Date\obj\x86\Release\Date.csprojResolveAssemblyReference.cache
+F:\Programing\C#\Date\Date\obj\x86\Release\Date.exe
+F:\Programing\C#\Date\Date\obj\x86\Release\Date.pdb
